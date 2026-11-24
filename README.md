@@ -9,6 +9,7 @@ I enjoy learning new technologies, solving practical problems and building appli
 ## About Me
 
 - AWS Certified Cloud Practitioner
+- Microsoft Certified: Azure Fundamentals
 - Learning Python, JavaScript and React
 - Interested in Cloud Computing, Software Development and Automation
 - Experienced in production planning and technical environments
@@ -22,28 +23,34 @@ I enjoy learning new technologies, solving practical problems and building appli
 
 **Tools:** Git, GitHub, VS Code
 
-**Cloud:** Amazon Web Services (AWS)
+**Cloud:** Amazon Web Services (AWS), Microsoft Azure
 
 ## Featured Projects
 
 ### Banking System
+
 A banking application developed as a programming project.
 
 ### Find Near Places
+
 An application for finding nearby places using location-based functionality.
 
 ### Password Generator
+
 A JavaScript application for generating passwords.
 
 ### Calculator
+
 A calculator application built to practise programming fundamentals.
 
 ### JavaScript Cards
+
 A project focused on JavaScript fundamentals and interactive functionality.
 
 ## Certifications
 
 - AWS Certified Cloud Practitioner (CLF-C02)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
 
 ## Currently Learning
 
@@ -54,8 +61,8 @@ A project focused on JavaScript fundamentals and interactive functionality.
 
 ## Connect With Me
 
-- GitHub: https://github.com/igorello-dev
-- LinkedIn: https://www.linkedin.com/in/igors-kozlovs-b33375451/
+- GitHub: [https://github.com/igorello-dev](https://github.com/igorello-dev)
+- LinkedIn: [https://www.linkedin.com/in/igors-kozlovs-b33375451/](https://www.linkedin.com/in/igors-kozlovs-b33375451/)
 
 ---
 
